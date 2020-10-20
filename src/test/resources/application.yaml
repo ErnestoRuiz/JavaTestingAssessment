@@ -1,0 +1,3 @@
+urls:
+  activeaccounts: http://localhost:${wiremock.server.port}/account/api/active/
+  warehouseaccounts: http://localhost:${wiremock.server.port}/account/api/warehouse/

@@ -1,0 +1,3 @@
+urls:
+  activeaccounts: http://accounts.somecompany.com/account/api/active/
+  warehouseaccounts: http://accounts.somecompany.com/account/api/warehouse/
